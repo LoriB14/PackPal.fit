@@ -109,5 +109,5 @@ Visit `http://localhost:3000` to see the application.
 - Full-stack development workflow from concept to deployment
 
 ## 👥 My Teammates
-- [Lori Battouk](https://github.com/LoriB14)
+- [Bianca Chino](https://github.com/biancacchino)
 - [Arany Mahendran](https://github.com/aranym123)
